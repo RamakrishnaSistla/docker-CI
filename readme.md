@@ -1,4 +1,4 @@
-# Test app for a quick and dirty test node.js app cobbled together for the purposes of demonstrating a basic CI/CD workflow with Docker Hub.
+# Test app for a quick test node.js app cobbled together for the purposes of demonstrating a basic CI/CD workflow with Docker Hub.
 
 ## Instructions for use
 
